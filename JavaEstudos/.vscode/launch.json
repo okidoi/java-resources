@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GerenciadorSensor",
+            "request": "launch",
+            "mainClass": "jdk7.literaisbinarios.GerenciadorSensor",
+            "projectName": "JavaEstudos_78d3d7c4"
+        },
+        {
+            "type": "java",
+            "name": "SeparadorLiteraisNumericos",
+            "request": "launch",
+            "mainClass": "jdk7.separadordigitos.SeparadorLiteraisNumericos",
+            "projectName": "JavaEstudos_78d3d7c4"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo02",
+            "request": "launch",
+            "mainClass": "jdk8.methodreferences.Exemplo02",
+            "projectName": "JavaEstudos_78d3d7c4"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo01",
+            "request": "launch",
+            "mainClass": "jdk8.methodreferences.Exemplo01",
+            "projectName": "JavaEstudos_78d3d7c4"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo03",
+            "request": "launch",
+            "mainClass": "jdk8.exemplo03.Exemplo03",
+            "projectName": "JavaEstudos_78d3d7c4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ExemploThread",
+            "request": "launch",
+            "mainClass": "jdk8.exemplo01.ExemploThread",
+            "projectName": "JavaEstudos_78d3d7c4"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo02",
+            "request": "launch",
+            "mainClass": "jdk8.exemplo02.Exemplo02",
+            "projectName": "JavaEstudos_78d3d7c4"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo03",
+            "request": "launch",
+            "mainClass": "jdk8.exemplo03.exemplo03",
+            "projectName": "JavaEstudos_78d3d7c4"
+        }
+    ]
+}
